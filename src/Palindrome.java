@@ -1,3 +1,8 @@
+//Name: Juliana Serrano
+//Date: 01/21/2025
+//Lab 1 - Recursion - Palindrome
+//Description: checks if user input is a palindrome
+
 import java.util.Scanner;
 
 public class Palindrome {
